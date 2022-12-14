@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Quinlan Browning",
+      "email": "xivibyjes@mailinator.com",
+      "id": 1
+    },
+    {
+      "name": "test update",
+      "email": "tocygyko@update.com",
+      "id": 2
+    },
+    {
+      "name": "Chadwick Mcleod update",
+      "email": "cadane@mailinator.com",
+      "id": 3
+    }
+  ]
+}
